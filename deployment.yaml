@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: leopincle/todoapp:21532102414
+        image: leopincle/todoapp:21650557824
         ports:
         - containerPort: 8000
